@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.fytrsx.com/en/categories/-a-letter-to-my-sister-/</loc>
+  </url><url>
+    <loc>https://www.fytrsx.com/en/posts/letters_to_sister/1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.fytrsx.com/posts/letters_to_sister/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.fytrsx.com/en/posts/letters_to_sister/1/"
+                />
+  </url><url>
     <loc>https://www.fytrsx.com/en/posts/</loc>
     <xhtml:link
                 rel="alternate"
@@ -12,6 +26,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.fytrsx.com/en/posts/"
+                />
+  </url><url>
+    <loc>https://www.fytrsx.com/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.fytrsx.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.fytrsx.com/en/categories/"
                 />
   </url><url>
     <loc>https://www.fytrsx.com/en/</loc>
@@ -36,18 +62,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.fytrsx.com/en/archives/"
-                />
-  </url><url>
-    <loc>https://www.fytrsx.com/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.fytrsx.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.fytrsx.com/en/categories/"
                 />
   </url><url>
     <loc>https://www.fytrsx.com/en/search/</loc>

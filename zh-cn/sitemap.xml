@@ -29,6 +29,16 @@
     <loc>https://www.fytrsx.com/categories/%E7%BB%99%E5%A7%90%E5%A7%90%E7%9A%84%E4%BF%A1/</loc>
   </url><url>
     <loc>https://www.fytrsx.com/posts/letters_to_sister/1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.fytrsx.com/en/posts/letters_to_sister/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.fytrsx.com/posts/letters_to_sister/1/"
+                />
   </url><url>
     <loc>https://www.fytrsx.com/posts/</loc>
     <xhtml:link
