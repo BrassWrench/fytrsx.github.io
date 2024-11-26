@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.fytrsx.com/en/posts/</loc>
+    <loc>https://www.fytrsx.com/en/posts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="www.fytrsx.com/posts/"
+                href="https://www.fytrsx.com/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.fytrsx.com/en/posts/"
+                href="https://www.fytrsx.com/en/posts/"
                 />
   </url><url>
-    <loc>www.fytrsx.com/en/</loc>
+    <loc>https://www.fytrsx.com/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="www.fytrsx.com/"
+                href="https://www.fytrsx.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.fytrsx.com/en/"
+                href="https://www.fytrsx.com/en/"
                 />
   </url><url>
-    <loc>www.fytrsx.com/en/archives/</loc>
+    <loc>https://www.fytrsx.com/en/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="www.fytrsx.com/archives/"
+                href="https://www.fytrsx.com/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.fytrsx.com/en/archives/"
+                href="https://www.fytrsx.com/en/archives/"
                 />
   </url><url>
-    <loc>www.fytrsx.com/en/categories/</loc>
+    <loc>https://www.fytrsx.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="www.fytrsx.com/categories/"
+                href="https://www.fytrsx.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.fytrsx.com/en/categories/"
+                href="https://www.fytrsx.com/en/categories/"
                 />
   </url><url>
-    <loc>www.fytrsx.com/en/search/</loc>
+    <loc>https://www.fytrsx.com/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="www.fytrsx.com/search/"
+                href="https://www.fytrsx.com/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.fytrsx.com/en/search/"
+                href="https://www.fytrsx.com/en/search/"
                 />
   </url><url>
-    <loc>www.fytrsx.com/en/series/</loc>
+    <loc>https://www.fytrsx.com/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="www.fytrsx.com/series/"
+                href="https://www.fytrsx.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.fytrsx.com/en/series/"
+                href="https://www.fytrsx.com/en/series/"
                 />
   </url><url>
-    <loc>www.fytrsx.com/en/tags/</loc>
+    <loc>https://www.fytrsx.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="www.fytrsx.com/tags/"
+                href="https://www.fytrsx.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.fytrsx.com/en/tags/"
+                href="https://www.fytrsx.com/en/tags/"
                 />
   </url>
 </urlset>
