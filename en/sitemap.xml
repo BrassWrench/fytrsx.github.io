@@ -26,7 +26,33 @@
                 href="https://www.fytrsx.com/en/"
                 />
   </url><url>
+    <loc>https://www.fytrsx.com/en/tags/letter/</loc>
+  </url><url>
     <loc>https://www.fytrsx.com/en/categories/letters-to-my-sister/</loc>
+  </url><url>
+    <loc>https://www.fytrsx.com/en/posts/letters_to_sister/3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.fytrsx.com/posts/letters_to_sister/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.fytrsx.com/en/posts/letters_to_sister/3/"
+                />
+  </url><url>
+    <loc>https://www.fytrsx.com/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.fytrsx.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.fytrsx.com/en/tags/"
+                />
   </url><url>
     <loc>https://www.fytrsx.com/en/posts/letters_to_sister/2/</loc>
     <xhtml:link
@@ -98,18 +124,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.fytrsx.com/en/series/"
-                />
-  </url><url>
-    <loc>https://www.fytrsx.com/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.fytrsx.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.fytrsx.com/en/tags/"
                 />
   </url>
 </urlset>
