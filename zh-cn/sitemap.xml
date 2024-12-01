@@ -40,6 +40,20 @@
   </url><url>
     <loc>https://www.fytrsx.com/categories/%E7%BB%99%E5%A7%90%E5%A7%90%E7%9A%84%E4%BF%A1/</loc>
   </url><url>
+    <loc>https://www.fytrsx.com/posts/letters_to_sister/4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.fytrsx.com/en/posts/letters_to_sister/4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.fytrsx.com/posts/letters_to_sister/4/"
+                />
+  </url><url>
+    <loc>https://www.fytrsx.com/tags/%E4%BF%A1/</loc>
+  </url><url>
     <loc>https://www.fytrsx.com/posts/letters_to_sister/3/</loc>
     <xhtml:link
                 rel="alternate"
@@ -51,8 +65,6 @@
                 hreflang="zh-cn"
                 href="https://www.fytrsx.com/posts/letters_to_sister/3/"
                 />
-  </url><url>
-    <loc>https://www.fytrsx.com/tags/%E4%BF%A1/</loc>
   </url><url>
     <loc>https://www.fytrsx.com/posts/letters_to_sister/2/</loc>
     <xhtml:link

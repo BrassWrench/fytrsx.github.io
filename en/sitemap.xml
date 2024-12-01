@@ -30,16 +30,16 @@
   </url><url>
     <loc>https://www.fytrsx.com/en/categories/letters-to-my-sister/</loc>
   </url><url>
-    <loc>https://www.fytrsx.com/en/posts/letters_to_sister/3/</loc>
+    <loc>https://www.fytrsx.com/en/posts/letters_to_sister/4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://www.fytrsx.com/posts/letters_to_sister/3/"
+                href="https://www.fytrsx.com/posts/letters_to_sister/4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.fytrsx.com/en/posts/letters_to_sister/3/"
+                href="https://www.fytrsx.com/en/posts/letters_to_sister/4/"
                 />
   </url><url>
     <loc>https://www.fytrsx.com/en/tags/</loc>
@@ -52,6 +52,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.fytrsx.com/en/tags/"
+                />
+  </url><url>
+    <loc>https://www.fytrsx.com/en/posts/letters_to_sister/3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.fytrsx.com/posts/letters_to_sister/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.fytrsx.com/en/posts/letters_to_sister/3/"
                 />
   </url><url>
     <loc>https://www.fytrsx.com/en/posts/letters_to_sister/2/</loc>
