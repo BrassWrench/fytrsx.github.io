@@ -14,18 +14,6 @@
                 href="https://www.fytrsx.com/categories/"
                 />
   </url><url>
-    <loc>https://www.fytrsx.com/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.fytrsx.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.fytrsx.com/tags/"
-                />
-  </url><url>
     <loc>https://www.fytrsx.com/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,6 +24,18 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.fytrsx.com/"
+                />
+  </url><url>
+    <loc>https://www.fytrsx.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.fytrsx.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.fytrsx.com/tags/"
                 />
   </url><url>
     <loc>https://www.fytrsx.com/categories/%E7%BB%99%E5%A7%90%E5%A7%90%E7%9A%84%E4%BF%A1/</loc>
